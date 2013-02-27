@@ -17,8 +17,8 @@ setup(
 	packages = find_packages("src"),
 	zip_safe = False,
 	install_requires = [
-		"py.Lang",
 		"netaddr",
+		"py.Lang",
 	],
 	classifiers = [
 		# http://pypi.python.org/pypi?%3Aaction=list_classifiers
