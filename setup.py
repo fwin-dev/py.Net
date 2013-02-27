@@ -17,7 +17,14 @@ setup(
 	packages = find_packages("src"),
 	zip_safe = False,
 	install_requires = [
+		"py.Lang",
 		"netaddr",
 	],
-#	dependency_links = ["http://projects.indigitaldev.net/master#egg=py.OS-0.5.0"],
+	classifiers = [
+		# http://pypi.python.org/pypi?%3Aaction=list_classifiers
+		"Development Status :: 4 - Beta",
+		"Programming Language :: Python :: 2.6",
+		"Programming Language :: Python :: 2.7",
+		"Operating System :: OS Independent",
+	],
 )
