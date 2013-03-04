@@ -3,7 +3,7 @@ from distutils.version import LooseVersion
 
 def findLatestFile(baseURL, filePrefix):
     try:
-        contents = urllib2.urlopen(baseURL, timeout=2).read()
+        contents = urllib2.urlopen(baseURL, timeout=4).read()
     except TypeError:    # <= py 2.6
         contents = urllib2.urlopen(baseURL).read()
     
