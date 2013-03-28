@@ -1,0 +1,17 @@
+<map id="Net.Protocols.HELD.Cucumbers.HELD_Cucumber" name="Net.Protocols.HELD.Cucumbers.HELD_Cucumber">
+<area shape="rect" id="node3" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_cucumbers_1_1_request.html" title="{Net.Protocols.HELD.Cucumbers.\lRequest\n|+ locationTypes\l+ locationTypes_areExact\l|+ __init__()\l}" alt="" coords="179,280,383,387"/>
+<area shape="rect" id="node8" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_cucumbers_1_1_response.html" title="{Net.Protocols.HELD.Cucumbers.\lResponse\n||+ pickle_XML()\l}" alt="" coords="781,287,984,379"/>
+<area shape="rect" id="node16" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_h_e_l_d___error.html" title="Corresponds to an RFC 5985 general error when the location request cannot be fulfilled." alt="" coords="408,273,579,394"/>
+<area shape="rect" id="node2" href="$classbase_1_1_cucumber.html" title="{base::Cucumber\n||}" alt="" coords="435,5,551,83"/>
+<area shape="rect" id="node4" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_h_e_l_d___error___request.html" title="{Net.Protocols.HELD.Errors.\lHELD_Error_Request\n||+ __init__()\l}" alt="" coords="207,450,377,542"/>
+<area shape="rect" id="node5" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_request_error.html" title="Indicates that the request was badly formed in some fashion (other than the XML content)." alt="" coords="200,598,384,690"/>
+<area shape="rect" id="node6" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_unsupported_message.html" title="Indicates that an element in the XML document for the request was not supported or understood..." alt="" coords="408,598,579,690"/>
+<area shape="rect" id="node7" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_x_m_l___error.html" title="Indicates that the XML content of the request was either badly formed or invalid." alt="" coords="5,598,176,690"/>
+<area shape="rect" id="node9" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_cucumbers_1_1_location_u_r_i__set.html" title="{Net.Protocols.HELD.Cucumbers.\lLocationURI_set\n|+ expires\l|+ __init__()\l+ pickle_XML()\l}" alt="" coords="993,443,1196,549"/>
+<area shape="rect" id="node10" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_h_e_l_d___error___response.html" title="{Net.Protocols.HELD.Errors.\lHELD_Error_Response\n||+ __init__()\l}" alt="" coords="797,450,968,542"/>
+<area shape="rect" id="node11" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_cannot_provide_l_i_type.html" title="Indicates that the LIS was unable to provide LI of the type or types requested." alt="" coords="797,598,968,690"/>
+<area shape="rect" id="node12" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_general_l_i_s_error.html" title="Indicates that an unspecified error occurred at the LIS." alt="" coords="992,598,1163,690"/>
+<area shape="rect" id="node13" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_location_unknown.html" title="Indicates that the LIS could not determine the location of the device." alt="" coords="1187,598,1357,690"/>
+<area shape="rect" id="node14" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_not_locatable.html" title="Indicates that the LIS is unable to locate the Device." alt="" coords="1381,598,1552,690"/>
+<area shape="rect" id="node15" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_timeout.html" title="Indicates that the LIS could not satisfy the request within the time specified." alt="" coords="603,598,773,690"/>
+</map>

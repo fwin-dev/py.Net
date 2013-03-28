@@ -140,7 +140,7 @@ Functions</h2></td></tr>
 <div class="fragment"><div class="line"><a name="l00004"></a><span class="lineno"><a class="code" href="namespace_net_1_1_h_t_t_p_index___find_latest_file.html#ace573233b57bb10dfb439489d7561c02">    4</a></span>&#160;</div>
 <div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="keyword">def </span><a class="code" href="namespace_net_1_1_h_t_t_p_index___find_latest_file.html#ace573233b57bb10dfb439489d7561c02">findLatestFile</a>(baseURL, filePrefix):</div>
 <div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;    <span class="keywordflow">try</span>:</div>
-<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;        contents = urllib2.urlopen(baseURL, timeout=2).read()</div>
+<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;        contents = urllib2.urlopen(baseURL, timeout=4).read()</div>
 <div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;    <span class="keywordflow">except</span> TypeError:    <span class="comment"># &lt;= py 2.6</span></div>
 <div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;        contents = urllib2.urlopen(baseURL).read()</div>
 <div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;    </div>
@@ -169,7 +169,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_net.html">Net</a></li><li class="navelem"><a class="el" href="namespace_net_1_1_h_t_t_p_index___find_latest_file.html">HTTPIndex_FindLatestFile</a></li>
-    <li class="footer">Generated on Mon Feb 11 2013 11:50:32 for py.Net by
+    <li class="footer">Generated on Thu Mar 28 2013 14:13:55 for py.Net by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.2 </li>
   </ul>

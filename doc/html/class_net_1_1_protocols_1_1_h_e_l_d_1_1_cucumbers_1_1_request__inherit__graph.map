@@ -1,0 +1,11 @@
+<map id="Net.Protocols.HELD.Cucumbers.Request" name="Net.Protocols.HELD.Cucumbers.Request">
+<area shape="rect" id="node7" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_h_e_l_d___error___request.html" title="{Net.Protocols.HELD.Errors.\lHELD_Error_Request\n||+ __init__()\l}" alt="" coords="213,569,384,661"/>
+<area shape="rect" id="node2" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_cucumbers_1_1_h_e_l_d___cucumber.html" title="{Net.Protocols.HELD.Cucumbers.\lHELD_Cucumber\n||}" alt="" coords="86,273,289,365"/>
+<area shape="rect" id="node3" href="$classbase_1_1_cucumber.html" title="{base::Cucumber\n||}" alt="" coords="130,139,245,216"/>
+<area shape="rect" id="node4" href="$class_net_1_1_protocols_1_1base_1_1_cucumber_1_1_request.html" title="A cucumber (python object) created for processing a request, typically made by a client." alt="" coords="315,273,507,365"/>
+<area shape="rect" id="node5" href="$class_net_1_1_protocols_1_1base_1_1_cucumber_1_1_cucumber.html" title="{Net.Protocols.base.Cucumber.\lCucumber\n||}" alt="" coords="315,131,507,223"/>
+<area shape="rect" id="node6" href="$classobject.html" title="{object\n||}" alt="" coords="383,5,439,83"/>
+<area shape="rect" id="node8" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_request_error.html" title="Indicates that the request was badly formed in some fashion (other than the XML content)." alt="" coords="5,710,189,802"/>
+<area shape="rect" id="node9" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_unsupported_message.html" title="Indicates that an element in the XML document for the request was not supported or understood..." alt="" coords="213,710,384,802"/>
+<area shape="rect" id="node10" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_x_m_l___error.html" title="Indicates that the XML content of the request was either badly formed or invalid." alt="" coords="408,710,579,802"/>
+</map>

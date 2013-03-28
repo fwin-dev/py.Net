@@ -1,0 +1,5 @@
+<map id="Net.Protocols.HELD.HELD.HELD_Descriptor_Server.unpickle_XML" name="Net.Protocols.HELD.HELD.HELD_Descriptor_Server.unpickle_XML">
+<area shape="rect" id="node2" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_h_e_l_d_1_1_h_e_l_d___descriptor___server.html#a1aa73eaa27be5bdf03f33a0c88b39d3b" title="Net.Protocols.HELD.HELD.\lHELD_Descriptor_Server.\l_unpickle_locReqElem" alt="" coords="306,5,481,61"/>
+<area shape="rect" id="node3" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_h_e_l_d_1_1_h_e_l_d___descriptor___server.html#a45292704e0da22cb85a52185831988ec" title="Parse locationType codes from a string." alt="" coords="306,85,481,141"/>
+<area shape="rect" id="node4" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_h_e_l_d_1_1_h_e_l_d___descriptor___server.html#abbd6dcd38dfc8ca255a4f30bba97ebc4" title="Returns a new XML document to pass on to HELD_ID." alt="" coords="299,165,487,221"/>
+</map>

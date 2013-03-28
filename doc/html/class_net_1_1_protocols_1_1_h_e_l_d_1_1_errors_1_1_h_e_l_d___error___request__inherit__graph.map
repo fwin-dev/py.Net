@@ -1,0 +1,13 @@
+<map id="Net.Protocols.HELD.Errors.HELD_Error_Request" name="Net.Protocols.HELD.Errors.HELD_Error_Request">
+<area shape="rect" id="node10" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_request_error.html" title="Indicates that the request was badly formed in some fashion (other than the XML content)." alt="" coords="5,726,189,818"/>
+<area shape="rect" id="node11" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_unsupported_message.html" title="Indicates that an element in the XML document for the request was not supported or understood..." alt="" coords="213,726,384,818"/>
+<area shape="rect" id="node12" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_x_m_l___error.html" title="Indicates that the XML content of the request was either badly formed or invalid." alt="" coords="408,726,579,818"/>
+<area shape="rect" id="node2" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_cucumbers_1_1_request.html" title="{Net.Protocols.HELD.Cucumbers.\lRequest\n|+ locationTypes\l+ locationTypes_areExact\l|+ __init__()\l}" alt="" coords="303,421,507,528"/>
+<area shape="rect" id="node3" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_cucumbers_1_1_h_e_l_d___cucumber.html" title="{Net.Protocols.HELD.Cucumbers.\lHELD_Cucumber\n||}" alt="" coords="174,273,377,365"/>
+<area shape="rect" id="node8" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_errors_1_1_h_e_l_d___error.html" title="Corresponds to an RFC 5985 general error when the location request cannot be fulfilled." alt="" coords="108,414,279,535"/>
+<area shape="rect" id="node4" href="$classbase_1_1_cucumber.html" title="{base::Cucumber\n||}" alt="" coords="218,139,333,216"/>
+<area shape="rect" id="node5" href="$class_net_1_1_protocols_1_1base_1_1_cucumber_1_1_request.html" title="A cucumber (python object) created for processing a request, typically made by a client." alt="" coords="403,273,595,365"/>
+<area shape="rect" id="node6" href="$class_net_1_1_protocols_1_1base_1_1_cucumber_1_1_cucumber.html" title="{Net.Protocols.base.Cucumber.\lCucumber\n||}" alt="" coords="403,131,595,223"/>
+<area shape="rect" id="node7" href="$classobject.html" title="{object\n||}" alt="" coords="471,5,527,83"/>
+<area shape="rect" id="node9" href="$class_exception.html" title="{Exception\n||}" alt="" coords="71,280,149,357"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Net.Protocols.HTTP.HTTP_Interface_Server" name="Net.Protocols.HTTP.HTTP_Interface_Server">
+<area shape="rect" id="node5" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_h_e_l_d_1_1_h_e_l_d___descriptor___server.html" title="Implementation of the HELD protocol in python." alt="" coords="5,545,195,695"/>
+<area shape="rect" id="node6" href="$class_net_1_1_protocols_1_1_h_t_t_p_1_1_h_t_t_p___error.html" title="{Net.Protocols.HTTP.HTTP\l_Error\n||+ __init__()\l+ getResponseCode()\l+ getContentType()\l}" alt="" coords="219,559,384,681"/>
+<area shape="rect" id="node2" href="$classprotocol_1_1_cucumber___interface___server.html" title="{protocol::Cucumber\l_Interface_Server\n||}" alt="" coords="43,182,172,274"/>
+<area shape="rect" id="node3" href="$class_net_1_1_protocols_1_1_h_t_t_p_1_1_h_t_t_p.html" title="Follows HTTP 1.1 specification (RFC 2616)." alt="" coords="197,131,387,325"/>
+<area shape="rect" id="node4" href="$classprotocol_1_1_descriptor.html" title="{protocol::Descriptor\n||}" alt="" coords="229,5,355,83"/>
+</map>
