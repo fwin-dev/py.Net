@@ -6,7 +6,7 @@ if sys.version_info[0] >= 3 or sys.version_info <= (2,5):
 
 setup(
 	name = "py.Net",
-	version = "0.5.4",
+	version = "1.0.0",
 	description = "Useful classes for common network related functions and abstraction",
 	author = "Jesse Cowles",
 	author_email = "jcowles@indigital.net",
@@ -18,7 +18,6 @@ setup(
 	zip_safe = False,
 	install_requires = [
 		"netaddr",
-		"py.Lang",
 	],
 	classifiers = [
 		# http://pypi.python.org/pypi?%3Aaction=list_classifiers
