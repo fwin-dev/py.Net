@@ -12,8 +12,9 @@ class InstallHook(_install):
 			raise Exception("This module only supports Python 2.6 or 2.7")
 
 setup(
+	cmdclass = {"install": InstallHook},
 	name = "py.Net",
-	version = "1.0.1",
+	version = "1.0.2",
 	description = "Useful classes for common network related functions and abstraction",
 	author = "Jesse Cowles",
 	author_email = "jcowles@indigital.net",
