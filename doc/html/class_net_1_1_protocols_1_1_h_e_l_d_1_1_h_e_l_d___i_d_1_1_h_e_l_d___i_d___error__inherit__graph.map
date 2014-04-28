@@ -1,7 +1,0 @@
-<map id="Net.Protocols.HELD.HELD_ID.HELD_ID_Error" name="Net.Protocols.HELD.HELD_ID.HELD_ID_Error">
-<area shape="rect" id="node6" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_h_e_l_d___i_d_1_1_bad_identifier.html" title="Indicates that a Device identifier used in the HELD request is not supported, badly formatted..." alt="" coords="96,585,267,677"/>
-<area shape="rect" id="node2" href="$class_net_1_1_protocols_1_1base_1_1_cucumber_1_1_response.html" title="A cucumber (python object) created for sending a response, typically made by the server." alt="" coords="5,273,197,365"/>
-<area shape="rect" id="node3" href="$class_net_1_1_protocols_1_1base_1_1_cucumber_1_1_cucumber.html" title="{Net.Protocols.base.Cucumber.\lCucumber\n||}" alt="" coords="5,131,197,223"/>
-<area shape="rect" id="node4" href="$classobject.html" title="{object\n||}" alt="" coords="73,5,129,83"/>
-<area shape="rect" id="node5" href="$class_exception.html" title="{Exception\n||}" alt="" coords="222,280,300,357"/>
-</map>

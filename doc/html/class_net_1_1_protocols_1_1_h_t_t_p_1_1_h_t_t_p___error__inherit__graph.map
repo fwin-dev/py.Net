@@ -1,8 +1,0 @@
-<map id="Net.Protocols.HTTP.HTTP_Error" name="Net.Protocols.HTTP.HTTP_Error">
-<area shape="rect" id="node2" href="$classprotocol_1_1_cucumber___response.html" title="{protocol::Cucumber\l_Response\n||}" alt="" coords="5,389,133,481"/>
-<area shape="rect" id="node3" href="$class_net_1_1_protocols_1_1_h_t_t_p_1_1_h_t_t_p___interface___server.html" title="{Net.Protocols.HTTP.HTTP\l_Interface_Server\n||+ getHTTPprotocolVersion()\l+ getContentType()\l+ getResponseCode()\l}" alt="" coords="159,374,335,495"/>
-<area shape="rect" id="node4" href="$classprotocol_1_1_cucumber___interface___server.html" title="{protocol::Cucumber\l_Interface_Server\n||}" alt="" coords="90,182,219,274"/>
-<area shape="rect" id="node5" href="$class_net_1_1_protocols_1_1_h_t_t_p_1_1_h_t_t_p.html" title="Follows HTTP 1.1 specification (RFC 2616)." alt="" coords="244,131,433,325"/>
-<area shape="rect" id="node6" href="$classprotocol_1_1_descriptor.html" title="{protocol::Descriptor\n||}" alt="" coords="275,5,401,83"/>
-<area shape="rect" id="node7" href="$classurllib2_1_1_h_t_t_p_error.html" title="{urllib2::HTTPError\n||}" alt="" coords="359,396,475,473"/>
-</map>

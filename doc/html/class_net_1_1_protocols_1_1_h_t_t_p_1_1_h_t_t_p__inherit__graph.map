@@ -1,7 +1,0 @@
-<map id="Net.Protocols.HTTP.HTTP" name="Net.Protocols.HTTP.HTTP">
-<area shape="rect" id="node3" href="$class_net_1_1_protocols_1_1_h_t_t_p_1_1_h_t_t_p___descriptor___response.html" title="{Net.Protocols.HTTP.HTTP\l_Descriptor_Response\n||+ pickle_validateCucumbers()\l+ pickle()\l+ unpickle()\l}" alt="" coords="5,374,195,495"/>
-<area shape="rect" id="node4" href="$class_net_1_1_protocols_1_1_h_t_t_p_1_1_h_t_t_p___interface___server.html" title="{Net.Protocols.HTTP.HTTP\l_Interface_Server\n||+ getHTTPprotocolVersion()\l+ getContentType()\l+ getResponseCode()\l}" alt="" coords="219,374,395,495"/>
-<area shape="rect" id="node2" href="$classprotocol_1_1_descriptor.html" title="{protocol::Descriptor\n||}" alt="" coords="139,5,265,83"/>
-<area shape="rect" id="node5" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_h_e_l_d_1_1_h_e_l_d___descriptor___server.html" title="Implementation of the HELD protocol in python." alt="" coords="111,545,300,695"/>
-<area shape="rect" id="node6" href="$class_net_1_1_protocols_1_1_h_t_t_p_1_1_h_t_t_p___error.html" title="{Net.Protocols.HTTP.HTTP\l_Error\n||+ __init__()\l+ getResponseCode()\l+ getContentType()\l}" alt="" coords="324,559,489,681"/>
-</map>

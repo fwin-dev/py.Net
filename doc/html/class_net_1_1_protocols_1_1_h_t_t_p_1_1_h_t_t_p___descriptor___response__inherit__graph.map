@@ -1,5 +1,0 @@
-<map id="Net.Protocols.HTTP.HTTP_Descriptor_Response" name="Net.Protocols.HTTP.HTTP_Descriptor_Response">
-<area shape="rect" id="node2" href="$classprotocol_1_1_descriptor___server.html" title="{protocol::Descriptor\l_Server\n||}" alt="" coords="5,182,131,274"/>
-<area shape="rect" id="node3" href="$class_net_1_1_protocols_1_1_h_t_t_p_1_1_h_t_t_p.html" title="Follows HTTP 1.1 specification (RFC 2616)." alt="" coords="156,131,345,325"/>
-<area shape="rect" id="node4" href="$classprotocol_1_1_descriptor.html" title="{protocol::Descriptor\n||}" alt="" coords="187,5,313,83"/>
-</map>

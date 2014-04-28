@@ -1,8 +1,0 @@
-<map id="Net.Protocols.HELD.Cucumbers.LocationURI_set" name="Net.Protocols.HELD.Cucumbers.LocationURI_set">
-<area shape="rect" id="node2" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_cucumbers_1_1_response.html" title="{Net.Protocols.HELD.Cucumbers.\lResponse\n||+ pickle_XML()\l}" alt="" coords="115,414,319,506"/>
-<area shape="rect" id="node3" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_cucumbers_1_1_h_e_l_d___cucumber.html" title="{Net.Protocols.HELD.Cucumbers.\lHELD_Cucumber\n||}" alt="" coords="5,273,208,365"/>
-<area shape="rect" id="node4" href="$classbase_1_1_cucumber.html" title="{base::Cucumber\n||}" alt="" coords="49,139,164,216"/>
-<area shape="rect" id="node5" href="$class_net_1_1_protocols_1_1base_1_1_cucumber_1_1_response.html" title="A cucumber (python object) created for sending a response, typically made by the server." alt="" coords="233,273,425,365"/>
-<area shape="rect" id="node6" href="$class_net_1_1_protocols_1_1base_1_1_cucumber_1_1_cucumber.html" title="{Net.Protocols.base.Cucumber.\lCucumber\n||}" alt="" coords="233,131,425,223"/>
-<area shape="rect" id="node7" href="$classobject.html" title="{object\n||}" alt="" coords="301,5,357,83"/>
-</map>

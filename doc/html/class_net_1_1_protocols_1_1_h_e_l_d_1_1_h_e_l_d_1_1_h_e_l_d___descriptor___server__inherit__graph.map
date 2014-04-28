@@ -1,7 +1,0 @@
-<map id="Net.Protocols.HELD.HELD.HELD_Descriptor_Server" name="Net.Protocols.HELD.HELD.HELD_Descriptor_Server">
-<area shape="rect" id="node2" href="$class_net_1_1_protocols_1_1_h_t_t_p_1_1_h_t_t_p___interface___server.html" title="{Net.Protocols.HTTP.HTTP\l_Interface_Server\n||+ getHTTPprotocolVersion()\l+ getContentType()\l+ getResponseCode()\l}" alt="" coords="73,374,249,495"/>
-<area shape="rect" id="node3" href="$classprotocol_1_1_cucumber___interface___server.html" title="{protocol::Cucumber\l_Interface_Server\n||}" alt="" coords="5,182,133,274"/>
-<area shape="rect" id="node4" href="$class_net_1_1_protocols_1_1_h_t_t_p_1_1_h_t_t_p.html" title="Follows HTTP 1.1 specification (RFC 2616)." alt="" coords="159,131,348,325"/>
-<area shape="rect" id="node5" href="$classprotocol_1_1_descriptor.html" title="{protocol::Descriptor\n||}" alt="" coords="190,5,316,83"/>
-<area shape="rect" id="node6" href="$classbase_1_1_descriptor___server.html" title="{Descriptor_Server\n||}" alt="" coords="274,396,395,473"/>
-</map>

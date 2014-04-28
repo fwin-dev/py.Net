@@ -1,6 +1,0 @@
-<map id="Net.Protocols.HELD.HELD_ID.XML_MAC" name="Net.Protocols.HELD.HELD_ID.XML_MAC">
-<area shape="rect" id="node2" href="$class_net_1_1_protocols_1_1_h_e_l_d_1_1_h_e_l_d___i_d_1_1_h_e_l_d___i_d___request.html" title="{Net.Protocols.HELD.HELD\l_ID.HELD_ID_Request\n||}" alt="" coords="16,414,187,506"/>
-<area shape="rect" id="node3" href="$class_net_1_1_protocols_1_1base_1_1_cucumber_1_1_request.html" title="A cucumber (python object) created for processing a request, typically made by a client." alt="" coords="5,273,197,365"/>
-<area shape="rect" id="node4" href="$class_net_1_1_protocols_1_1base_1_1_cucumber_1_1_cucumber.html" title="{Net.Protocols.base.Cucumber.\lCucumber\n||}" alt="" coords="5,131,197,223"/>
-<area shape="rect" id="node5" href="$classobject.html" title="{object\n||}" alt="" coords="73,5,129,83"/>
-</map>
