@@ -14,11 +14,11 @@ class InstallHook(_install):
 setup(
 	cmdclass = {"install": InstallHook},
 	name = "py.Net",
-	version = "1.0.2",
+	version = "1.0.3.dev01",
 	description = "Useful classes for common network related functions and abstraction",
 	author = "Jesse Cowles",
 	author_email = "jcowles@indigital.net",
-	url = "http://projects.indigitaldev.net/py.Net",
+	url = "http://projects.indigitaldev.net/jcowles/py.Net",
 	
 	namespace_packages = ["Net"],
 	package_dir = {"":"src"},
