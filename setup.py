@@ -2,7 +2,6 @@ from setuptools import setup, find_packages
 from setuptools.command.install import install as _install
 
 import sys
-
 class InstallHook(_install):
 	def run(self):
 		self.preInstall()
@@ -14,7 +13,7 @@ class InstallHook(_install):
 setup(
 	cmdclass = {"install": InstallHook},
 	name = "py.Net",
-	version = "1.0.3.dev01",
+	version = "1.0.3.dev02",
 	description = "Useful classes for common network related functions and abstraction",
 	author = "Jesse Cowles",
 	author_email = "jcowles@indigital.net",
@@ -25,7 +24,7 @@ setup(
 	packages = find_packages("src"),
 	zip_safe = False,
 	install_requires = [
-		"netaddr",
+		"netaddr	>=0.7.10, <0.8",
 	],
 	classifiers = [
 		# http://pypi.python.org/pypi?%3Aaction=list_classifiers
